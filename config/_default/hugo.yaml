@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Bartłomiej Marek Website
-baseURL: 'https://bartlomiejmarek.github.io/' # Website URL
+baseURL: 'https://example.com/'
+# baseURL: 'https://bartlomiejmarek.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS
