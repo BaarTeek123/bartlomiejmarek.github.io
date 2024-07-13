@@ -36,7 +36,8 @@ experience:
         * Creating basic vulnerabilities scans with Nessus.
         * Creating dashboards using MS PowerBI and Grafana.
         
-        Technologies: Python, Orca Security, Nessus, PowerBI, Grafana, SQL
+
+        **Technologies**: Python, Orca Security, Nessus, PowerBI, Grafana, SQL
 
   - title: Lecturer
     company: HackerU
