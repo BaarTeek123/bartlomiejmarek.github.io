@@ -48,7 +48,8 @@ experience:
     description: |2-
         Responsibilities include:    
           * Course delivery: Introduction to Python for the security domain
-        **Technologies**: Python
+        
+        Technologies: Python
 
   - title: Vulnerability Management Intern
     company: ZF Automotive IT Poland (ZF Group)
