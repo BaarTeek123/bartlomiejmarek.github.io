@@ -71,7 +71,8 @@ experience:
     description: |2-
         Responsibilities include:        
           * Risk assessment and threat modeling
-        **Technologies**: MITTRE ATT&CK, Risk Assessment
+          
+          **Technologies**: MITTRE ATT&CK, Risk Assessment
         
 
   - title: System Administrator Intern
@@ -84,6 +85,7 @@ experience:
     description: |2-
         Responsibilities include:        
           * Governance, support, administration SAP Business Intelligence applications: SAP Analytics Cloud and SAP Analysis for Office.
+        
         **Technologies**: SAP Analytics Cloud, SAP Analysis for Office,  SAP Business Intelligence
 
   - title: Cybersecurity trainee
