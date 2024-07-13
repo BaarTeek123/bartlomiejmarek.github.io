@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: ''
-    date_start: '2022-11'
+    date_start: '2022-11-01'
     date_end: 'Present'
     description: |2-
         Responsibilities include:
@@ -51,7 +51,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: ''
-    date_start: '2023-07'
+    date_start: '2023-07-01'
     date_end: 'Present'
     description: |2-
         Responsibilities include:    
@@ -62,8 +62,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: ''
-    date_start: '2022-06'
-    date_end: '2022-11'
+    date_start: '2022-06-01'
+    date_end: '2022-11-01'
     description: |2-
         Responsibilities include:   
           * Development of simple scripts to automate security processes.
@@ -74,8 +74,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: ''
-    date_start: '2022-07'
-    date_end: '2022-10'
+    date_start: '2022-07-01'
+    date_end: '2022-10-01'
     description: |2-
         Responsibilities include:        
           * Risk assessment and threat modeling
@@ -89,8 +89,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: ''
-    date_start: '2022-11'
-    date_end: 'Present'
+    date_start: '2021-11-01'
+    date_end: '2022-05-31'
     description: |2-
         Responsibilities include:        
           * Governance, support, administration SAP Business Intelligence applications: SAP Analytics Cloud and SAP Analysis for Office.
