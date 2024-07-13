@@ -85,7 +85,7 @@ experience:
     description: |2-
         Responsibilities include:        
           * Governance, support, administration SAP Business Intelligence applications: SAP Analytics Cloud and SAP Analysis for Office.
-        
+        \n
         **Technologies**: SAP Analytics Cloud, SAP Analysis for Office,  SAP Business Intelligence
 
   - title: Cybersecurity trainee
