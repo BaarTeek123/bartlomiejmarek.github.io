@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certifications & Courses'
+title: 'Certifications and Courses'
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
@@ -26,23 +26,23 @@ item:
     date_start: '2021-01-01'
     description: ''
     organization: ING Hubs Poland
-    organization_url: https://inghubspoland.com/
+    organization_url: 'https://inghubspoland.com/'
     title: 'Corporate Readiness Certificate (stream *Cybersecurity: defense in modern organizations'
     url: ''
   - certificate_url: ''
     date_end: ''
     date_start: '2023-11-27'
     description: 'A course on implementing Generative AI tools (in particular OpenAI models) with application logic and automation tools.'
-    organization: Brave Courses Sp. z o.o.
-    organization_url: https://www.brave.courses
-    title: AIDevs2
+    organization: 'Brave Courses Sp. z o.o.'
+    organization_url: 'https://www.brave.courses'
+    title: 'AIDevs2'
     url: ''
   - certificate_url:
-    date_end: '2022-11-10'
-    date_start: ''
+    date_end: ''
+    date_start: '2022-11-27'
     description: ''
-    organization: PCC- CERT Polskie Centrum Certyfikacji
-    organization_url: https://www.pcc-cert.pl/
+    organization: 'PCC- CERT Polskie Centrum Certyfikacji'
+    organization_url: 'https://www.pcc-cert.pl/'
     title: 'ISO 27001 Internal Auditor'
     url: ''
 
