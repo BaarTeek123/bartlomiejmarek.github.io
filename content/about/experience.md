@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 60
 
 title: Experience
 subtitle:
@@ -42,7 +42,7 @@ experience:
   - title: Lecturer
     company: HackerU
     company_url: ''
-    company_logo: org-zf
+    company_logo: ''
     location: ''
     date_start: '2023-07-01'
     date_end: ''
@@ -103,7 +103,7 @@ experience:
   - title: Math and physics tutor
     company: Edu Projekt
     company_url: ''
-    company_logo: org-zf
+    company_logo: ''
     location: ''
     date_start: '2019-09-01'
     date_end: '2024-05-31'

@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: blank
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certifications'
+title: 'Courses'
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
@@ -23,27 +23,35 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2024-07-06'
+    date_start: '2022-07-11'
     description: ''
-    organization: ING Hubs Poland
-    organization_url: 'https://inghubspoland.com/'
-    title: 'Corporate Readiness Certificate (stream *Cybersecurity: defense in modern organizations*)'
+    organization: Cisco Networking Academy
+    organization_url: 'https://www.netacad.com/'
+    title: 'CCNA: Security'
     url: ''
   - certificate_url: ''
     date_end: ''
-    date_start: '2023-11-27'
-    description: 'A course on implementing Generative AI tools (in particular OpenAI models) with application logic and automation tools.'
-    organization: 'Brave Courses Sp. z o.o.'
-    organization_url: 'https://www.brave.courses'
-    title: 'AIDevs2'
-    url: ''
-  - certificate_url:
-    date_end: ''
-    date_start: '2022-11-27'
+    date_start: '2021-09-01'
     description: ''
-    organization: 'PCC- CERT Polskie Centrum Certyfikacji'
-    organization_url: 'https://www.pcc-cert.pl/'
-    title: 'ISO 27001 Internal Auditor'
+    organization: Cisco Networking Academy
+    organization_url: 'https://www.netacad.com/'
+    title: 'CCNAv7: Switching, Routing, and Wireless Essentials'
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2022-02-01'
+    description: ''
+    organization: Cisco Networking Academy
+    organization_url: 'https://www.netacad.com/'
+    title: 'CCNAv7: Enterprise Networking, Security and Automation'
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2022-05-06'
+    description: ''
+    organization: Cisco Networking Academy
+    organization_url: 'https://www.netacad.com/'
+    title: 'CCNAv7: Introduction to Networks'
     url: ''
 
 design:
