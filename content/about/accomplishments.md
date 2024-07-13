@@ -27,7 +27,7 @@ item:
     description: ''
     organization: ING Hubs Poland
     organization_url: 'https://inghubspoland.com/'
-    title: 'Corporate Readiness Certificate (stream *Cybersecurity: defense in modern organizations'
+    title: 'Corporate Readiness Certificate (stream *Cybersecurity: defense in modern organizations*)'
     url: ''
   - certificate_url: ''
     date_end: ''
