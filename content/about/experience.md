@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: ''
     date_start: '2022-11-01'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities include:
           * Automation of security processes.
@@ -52,7 +52,7 @@ experience:
     company_logo: org-gc
     location: ''
     date_start: '2023-07-01'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities include:    
           * Course delivery: Introduction to Python for the security domain
