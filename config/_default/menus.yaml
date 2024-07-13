@@ -10,3 +10,9 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+  - name: Projects
+    url: project/
+    weight: 30
+  # - name: Publications
+  #   url: project/
+  #   weight: 20
