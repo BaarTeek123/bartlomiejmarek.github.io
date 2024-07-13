@@ -26,7 +26,7 @@ experience:
     company: Wrocław Univeristy of Science and Technology
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Wrocław, Poland
     date_start: '2023-03-01'
     date_end: '2024-07-01'
     description: |2-
@@ -39,7 +39,7 @@ experience:
     company: Wrocław Univeristy of Science and Technology
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Wrocław, Poland
     date_start: '2019-10-01'
     date_end: '2023-02-28'
     description: |2-

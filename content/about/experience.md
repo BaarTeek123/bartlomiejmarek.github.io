@@ -35,13 +35,13 @@ experience:
         * Co-creation of the vulnerability management process for the hybrid cloud infrastructure using Orca Security.
         * Creating basic vulnerabilities scans with Nessus.
         * Creating dashboards using MS PowerBI and Grafana.
-        Technologies:
-          * Python 
-          * Orca Security
-          * Nessus
-          * PowerBI
-          * Grafana
-          * SQL 
+      Technologies:
+        * Python 
+        * Orca Security
+        * Nessus
+        * PowerBI
+        * Grafana
+        * SQL 
 
   - title: Lecturer
     company: HackerU
