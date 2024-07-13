@@ -30,8 +30,10 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
+    - name: Biometrics
+      tag: Biometrics
+    - name: DeepFakes
+      tag: DF
     - name: NLP
       tag: NLP
 
