@@ -41,7 +41,7 @@ experience:
     company_logo: org-x
     location: California
     date_start: '2019-10'
-    date_end: ''2023-02'
+    date_end: '2023-02'
     description: |2-
         * Final grade: 5.5 (top score).
         * Graduated with honors.
