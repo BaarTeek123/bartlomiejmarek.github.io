@@ -13,9 +13,9 @@ status:
   icon: 🧑‍💻️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: ""
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include security of Artificial Intelligence and Machine Learning, biometrics and DeepFakes. 
