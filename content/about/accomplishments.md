@@ -23,7 +23,7 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2024-07-06'
     description: ''
     organization: ING Hubs Poland
     organization_url: 'https://inghubspoland.com/'
