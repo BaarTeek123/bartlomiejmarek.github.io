@@ -25,7 +25,7 @@ experience:
   - title: Vulnerability Management Specialist
     company: ZF Automotive IT Poland (ZF Group)
     company_url: ''
-    company_logo: org-zf
+    company_logo: org-gc
     location: ''
     date_start: '2022-11-01'
     date_end: ''
@@ -55,7 +55,7 @@ experience:
   - title: Vulnerability Management Intern
     company: ZF Automotive IT Poland (ZF Group)
     company_url: ''
-    company_logo: org-zf
+    company_logo: org-gc
     location: ''
     date_start: '2022-06-01'
     date_end: '2022-11-01'
@@ -67,7 +67,7 @@ experience:
   - title: Cybersecurity Consultant Trainee
     company: PwC Poland
     company_url: ''
-    company_logo: org-pwc
+    company_logo: org-gc
     location: ''
     date_start: '2022-07-01'
     date_end: '2022-10-01'
@@ -81,7 +81,7 @@ experience:
   - title: System Administrator Intern
     company: ZF Automotive IT Poland (ZF Group)
     company_url: ''
-    company_logo: org-zf
+    company_logo: org-gc
     location: ''
     date_start: '2021-11-01'
     date_end: '2022-05-31'
@@ -94,7 +94,7 @@ experience:
   - title: Cybersecurity trainee
     company: ZF Automotive IT Poland (ZF Group)
     company_url: ''
-    company_logo: org-zf
+    company_logo: org-gc
     location: ''
     date_start: '2021-06-01'
     date_end: '2021-10-31'
