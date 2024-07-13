@@ -48,9 +48,9 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:    
-          * Course delivery: Introduction to Python for the security domain
+        * Course delivery: Introduction to Python for the security domain
         
-        Technologies: Python
+        **Technologies**: Python
 
   - title: Vulnerability Management Intern
     company: ZF Automotive IT Poland (ZF Group)
@@ -61,8 +61,8 @@ experience:
     date_end: '2022-11-01'
     description: |2-
         Responsibilities include:   
-          * Development of simple scripts to automate security processes.
-          * Creating dashboards using MS PowerBI and Grafana.
+        * Development of simple scripts to automate security processes.
+        * Creating dashboards using MS PowerBI and Grafana.
 
   - title: Cybersecurity Consultant Trainee
     company: PwC Poland
@@ -73,9 +73,9 @@ experience:
     date_end: '2022-10-01'
     description: |2-
         Responsibilities include:        
-          * Risk assessment and threat modeling
+        * Risk assessment and threat modeling
           
-          **Technologies**: MITTRE ATT&CK, Risk Assessment
+        **Technologies**: MITTRE ATT&CK, Risk Assessment
         
 
   - title: System Administrator Intern
@@ -87,7 +87,7 @@ experience:
     date_end: '2022-05-31'
     description: |2-
         Responsibilities include:        
-          * Governance, support, administration SAP Business Intelligence applications: SAP Analytics Cloud and SAP Analysis for Office.
+        * Governance, support, administration SAP Business Intelligence applications: SAP Analytics Cloud and SAP Analysis for Office.
 
         **Technologies**: SAP Analytics Cloud, SAP Analysis for Office,  SAP Business Intelligence
 
