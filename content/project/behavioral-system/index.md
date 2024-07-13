@@ -7,5 +7,5 @@ tags:
   - ML
   - Biometrics
 date: 2024
-external_link: http://github.com
+# external_link: http://github.com
 ---

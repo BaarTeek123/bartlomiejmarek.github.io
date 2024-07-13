@@ -6,5 +6,5 @@ summary:
 tags:
   - ML
 date: 2023
-external_link: http://github.com
+# external_link: http://github.com
 ---
