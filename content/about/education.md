@@ -25,7 +25,7 @@ experience:
   - title: MEng Trusted Artificial Intelligence
     company: Wrocław Univeristy of Science and Technology
     company_url: ''
-    company_logo: org-x
+    company_logo: org-pwr
     location: Wrocław, Poland
     date_start: '2023-03-01'
     date_end: '2024-07-01'
@@ -38,7 +38,7 @@ experience:
   - title: BEng Cybersecurity
     company: Wrocław Univeristy of Science and Technology
     company_url: ''
-    company_logo: org-x
+    company_logo: org-pwr
     location: Wrocław, Poland
     date_start: '2019-10-01'
     date_end: '2023-02-28'
