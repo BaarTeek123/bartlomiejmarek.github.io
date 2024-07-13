@@ -35,7 +35,8 @@ experience:
         * Co-creation of the vulnerability management process for the hybrid cloud infrastructure using Orca Security.
         * Creating basic vulnerabilities scans with Nessus.
         * Creating dashboards using MS PowerBI and Grafana.
-        **Technologies**: Python, Orca Security, Nessus, PowerBI, Grafana, SQL
+        
+        Technologies: Python, Orca Security, Nessus, PowerBI, Grafana, SQL
 
   - title: Lecturer
     company: HackerU
@@ -85,7 +86,7 @@ experience:
     description: |2-
         Responsibilities include:        
           * Governance, support, administration SAP Business Intelligence applications: SAP Analytics Cloud and SAP Analysis for Office.
-        \n
+
         **Technologies**: SAP Analytics Cloud, SAP Analysis for Office,  SAP Business Intelligence
 
   - title: Cybersecurity trainee
