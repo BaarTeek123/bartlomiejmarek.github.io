@@ -31,10 +31,10 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-          * Automation of security processes.
-          * Co-creation of the vulnerability management process for the hybrid cloud infrastructure using Orca Security.
-          * Creating basic vulnerabilities scans with Nessus.
-          * Creating dashboards using MS PowerBI and Grafana.
+        * Automation of security processes.
+        * Co-creation of the vulnerability management process for the hybrid cloud infrastructure using Orca Security.
+        * Creating basic vulnerabilities scans with Nessus.
+        * Creating dashboards using MS PowerBI and Grafana.
         Technologies:
           * Python 
           * Orca Security
