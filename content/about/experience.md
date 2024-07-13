@@ -41,10 +41,7 @@ experience:
           * Nessus
           * PowerBI
           * Grafana
-          * SQL
-    
-
-        
+          * SQL 
 
   - title: Lecturer
     company: HackerU
@@ -104,8 +101,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: ''
-    date_start: '2021-06'
-    date_end: '2021-10'
+    date_start: '2021-06-01'
+    date_end: '2021-10-31'
     description: ''
   
   - title: Math and physics tutor
@@ -113,8 +110,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: ''
-    date_start: '2019-09'
-    date_end: '2024-05'
+    date_start: '2019-09-01'
+    date_end: '2024-05-31'
     description: ''
 design:
   columns: '1'
