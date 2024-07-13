@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: Mulitilingual aspects of audio DeepFakes
 summary: Write about your project here...
 tags:
   - NLP
