@@ -1,5 +1,5 @@
 ---
-title: "A review of anonymization for healthcare data"
+title: ""
 authors:
 - Bartłomiej Marek
 - Wojciech Wodo

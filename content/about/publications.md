@@ -25,8 +25,8 @@ item:
     date_end: ''
     date_start: '2024-07-06'
     description: ''
-    organization: ING Hubs Poland
-    organization_url: 'https://inghubspoland.com/'
+    organization: ''
+    organization_url: ''
     title: '*Securing ML-based Android Malware Detectors: A Defensive Feature Selection Approach against Backdoor Attacks*'
     url: ''
   - certificate_url: ''

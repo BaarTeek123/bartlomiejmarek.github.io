@@ -23,7 +23,7 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: '2023-12-09'
-    date_start: '2023-12-08'
+    date_start: ''
     description: ''
     organization: ''
     organization_url: ''
@@ -31,7 +31,7 @@ item:
     url: ''
   - certificate_url: ''
     date_end: '2024-07-10'
-    date_start: '2024-07-08'
+    date_start: ''
     description: ''
     organization: '21st International Conference on Security and Cryptography: SECRYPT 2024'
     organization_url: ''
