@@ -1,12 +1,17 @@
 ---
-title: "Spellchecker analysis for behavioural biometric of typing errors scenario"
+title: "Securing ML-based Android Malware Detectors: A Defensive Feature Selection Approach against Backdoor Attacks"
 authors:
 - Bartłomiej Marek
-- Wojciech Wodo
+- Kacper Pieniążek
+- Filip Ratajczak
+- Wojciech Adamczyk
+- Bartosz Bok 
+- Mateusz Krzysztoń
+
 author_notes:
 date: "2024-07-01"
 doi: "10.5220/0012789000003767"
-isbn: "978-989-758-709-2"
+isbn: "979-8-3503-9566-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-01"
@@ -20,7 +25,7 @@ publication_types: ["paper-conference"] #conference
 
 
 # Publication name and optional abbreviated publication name.
-publication: "In Proceedings of the 21st International Conference on Security and Cryptography - SECRYPT 2024"
+publication: "2024 IEEE/ACM 24th International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW)"
 publication_short: ""
 
 abstract: ''
@@ -28,7 +33,7 @@ abstract: ''
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Biometrics
+- ML
 
 featured: false
 

@@ -1,12 +1,12 @@
 ---
-title: "Spellchecker analysis for behavioural biometric of typing errors scenario"
+title: "User authentication and identification system based on behavioural biometrics of typing errors."
 authors:
 - Bartłomiej Marek
 - Wojciech Wodo
 author_notes:
 date: "2024-07-01"
-doi: "10.5220/0012789000003767"
-isbn: "978-989-758-709-2"
+doi: ""
+isbn: "978-83-7493-260-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-01"
@@ -20,7 +20,7 @@ publication_types: ["paper-conference"] #conference
 
 
 # Publication name and optional abbreviated publication name.
-publication: "In Proceedings of the 21st International Conference on Security and Cryptography - SECRYPT 2024"
+publication: "Association of Polish Electrical Engineers at Wrocław University of Technology: Trends and Technological Solutions in Electrical Engineering (pp. 153-162)."
 publication_short: ""
 
 abstract: ''
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://sep.pwr.edu.pl/monografie/SEP_2023.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
