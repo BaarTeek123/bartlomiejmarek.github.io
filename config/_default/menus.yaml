@@ -8,7 +8,10 @@ main:
 #    url: /
 #    weight: 10
   - name: Resumé
-    url: about/
+    url:
+      about/
+      project/
+      publications/
     weight: 20
   - name: Projects 🧑🏼‍💻️
     url: project/
