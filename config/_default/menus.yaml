@@ -8,11 +8,11 @@ main:
 #    url: /
 #    weight: 10
   - name: Home
-    url: '#about'
+    url: about/
     weight: 20
   - name: Projects 🧑🏼‍💻️
-    url: '#project'
+    url: project/
     weight: 30
   - name: Publications 📄
-    url: '#publications'
+    url: publications/
     weight: 40
