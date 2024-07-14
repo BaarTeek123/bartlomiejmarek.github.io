@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Spellchecker analysis for behavioural biometric of typing errors scenario"
 authors:
 - Bartłomiej Marek
 - Wojciech Wodo
@@ -9,7 +9,7 @@ doi: "10.5220/0012789000003767"
 isbn: "979-8-3503-9566-2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-01T00:00:00Z"
+publishDate: "2024-07-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ abstract: ''
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Review
+- Biometrics
 
 featured: false
 
