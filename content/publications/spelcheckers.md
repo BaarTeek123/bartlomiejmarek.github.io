@@ -4,17 +4,18 @@ authors:
 - Bartłomiej Marek
 - Wojciech Wodo
 author_notes:
-date: "2022-11-01T00:00:00Z"
-doi: ""
+date: "2024-07-01T00:00:00Z"
+doi: "10.5220/0012789000003767"
+isbn: "979-8-3503-9566-2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-11-01T00:00:00Z"
+publishDate: "2024-07-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ["paper-conference"] #conference
-publication_types: ["article-journal"] #journal
+publication_types: ["paper-conference"] #conference
+#publication_types: ["article-journal"] #journal
 # publication_types: ["article"] # preprint
 
 
@@ -22,8 +23,7 @@ publication_types: ["article-journal"] #journal
 publication: "*Big Data*"
 publication_short: ""
 
-abstract: Mining health data can lead to faster medical decisions, improvement in the quality of treatment, disease prevention, and reduced cost, and it drives innovative solutions within the healthcare sector. However, health data are highly sensitive and subject to regulations such as the General Data Protection Regulation, which aims to ensure patient's privacy. Anonymization or removal of patient identifiable information, although the most conventional way, is the first important step to adhere to the regulations and incorporate privacy concerns. In this article, we review the existing anonymization techniques and their applicability to various types (relational and graph based) of health data. Besides, we provide an overview of possible attacks on anonymized data. We illustrate via a reconstruction attack that anonymization, although necessary, is not sufficient to address patient privacy and discuss methods for protecting against such attacks. Finally, we discuss tools that can be used to achieve anonymization.
-
+abstract: ''
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.liebertpub.com/doi/pdf/10.1089/big.2021.0169?casa_token=-mUJDfzeS8kAAAAA%3AsLQnzNrQmu4yiy787naS-qQILCjl9T91qcTY9F4_7p5i0Yi29GZHa1jM_AhTjEsJhZrZXxqwfGu8Hg'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,10 +46,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
