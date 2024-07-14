@@ -4,7 +4,7 @@ authors:
 - Bartłomiej Marek
 - Wojciech Wodo
 author_notes:
-date: "2024-07-01T00:00:00Z"
+date: "2024-07-01"
 doi: "10.5220/0012789000003767"
 isbn: "979-8-3503-9566-2"
 

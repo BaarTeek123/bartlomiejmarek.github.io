@@ -25,7 +25,7 @@ item:
     date_end: '2023-12-09'
     date_start: ''
     description: ''
-    organization: ''
+    organization: 'DevAI by Data Science Summit 2023'
     organization_url: ''
     title: 'Tłumaczenia symultaniczne z eventów, wspierane przez AI - dlaczego jeszcze ich nie ma?'
     url: ''
