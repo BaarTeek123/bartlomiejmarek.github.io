@@ -15,4 +15,4 @@ main:
     weight: 30
   - name: Publications
     url: publications/
-    weight: 20
+    weight: 40
