@@ -28,7 +28,7 @@ item:
     organization: 
     organization_url: ''
     title: '*Securing ML-based Android Malware Detectors: A Defensive Feature Selection Approach against Backdoor Attacks*'
-    url: 'content/publications/securingML'
+    url: 'https://bartlomiejmarek.github.io/content/publications/securingML'
   - certificate_url: ''
     date_end: ''
     date_start: '2024-07-01'
@@ -36,7 +36,7 @@ item:
     organization: ''
     organization_url: ''
     title: 'Spellchecker analysis for behavioural biometric of typing errors scenario'
-    url: 'content/publications/spellcheckers'
+    url: 'https://bartlomiejmarek.github.io/content/publications/spellcheckers'
   - certificate_url:
     date_end: ''
     date_start: '2023-11-01'
@@ -44,7 +44,7 @@ item:
     organization: 'Association of Polish Electrical Engineers at Wrocław University of Technology: Trends and Technological Solutions in Electrical Engineering (pp. 153-162).'
     organization_url: 'https://www.pcc-cert.pl/'
     title: 'User authentication and identification system based on behavioural biometrics of typing errors.'
-    url: 'content/publications/behaviouralSEP'
+    url: 'https://bartlomiejmarek.github.io/content/publications/behaviouralSEP'
 
 design:
   columns: '1'
