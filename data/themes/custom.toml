@@ -1,19 +1,19 @@
 # Essentially Minimal theme but with constant home section bg color.
 name = "Starter Blog"
 
-#[light]
-#  # Primary
-#  primary = "#bbdefb"
-#
-#  # Menu
-#  menu_primary = "rgb(247, 250, 252)"
-#  menu_text = "#bbdefb"
-#  menu_text_active = "#AFC6D9"
-#  menu_title = "#2b2b2b"
-#
-#  # Home sections
-#  home_section_odd = "rgb(247, 250, 252)"
-#  home_section_even = "rgb(247, 250, 252)"
+[light]
+  # Primary
+  primary = "#bbdefb"
+
+  # Menu
+  menu_primary = "rgb(247, 250, 252)"
+  menu_text = "#1A202C"
+  menu_text_active = "#AFC6D9"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(247, 250, 252)"
+  home_section_even = "rgb(247, 250, 252)"
 
 [dark]
   menu_primary = "rgb(247, 250, 252)"
