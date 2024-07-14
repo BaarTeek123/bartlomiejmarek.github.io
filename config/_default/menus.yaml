@@ -10,9 +10,9 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-  - name: Projects
+  - name: Projects 🧑🏼‍💻️
     url: project/
     weight: 30
-  - name: Publications
+  - name: Publications 📄
     url: publications/
     weight: 40
