@@ -42,7 +42,7 @@ item:
     date_start: '2023-11-01'
     description: ''
     organization: 'Association of Polish Electrical Engineers at Wrocław University of Technology: Trends and Technological Solutions in Electrical Engineering (pp. 153-162).'
-    organization_url: 'https://www.pcc-cert.pl/'
+    organization_url: ''
     title: 'User authentication and identification system based on behavioural biometrics of typing errors.'
     url: 'https://bartlomiejmarek.github.io/publications/behaviouralsep'
 
