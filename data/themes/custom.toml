@@ -4,7 +4,7 @@ name = "Starter Blog"
 [light]
   # Primary
   primary = "#76b5e8"
-  link = "#bbdefb"
+  link = "#76b5e8"
   link_hover = "#AFC6D9"
   background = "rgb(26, 32, 44)"
   # Menu
