@@ -25,17 +25,17 @@ item:
     date_end: ''
     date_start: '2023-07-27'
     description: ''
-    organization: ''
+    organization: 'Association of Polish Electricians (SEP)'
     organization_url: ''
-    title: 'Laureate in the Competition for the Best Thesis at the Faculty of Information and Communication Technology, organized by the Association of Polish Electricians (3rd prize)'
+    title: 'Laureate in the Competition for the Best Thesis at the Faculty of Information and Communication Technology (3rd prize)'
     url: ''
   - certificate_url: ''
     date_end: ''
     date_start: '2023-11-27'
     description: ''
-    organization: ''
+    organization: 'Wrocław University of Science and Technology'
     organization_url: ''
-    title: "Laureate in the Competition for the Best Graduates of the Faculty of Information and Communication Technology, Wrocław University of Technology (6th place)"
+    title: "Laureate in the Competition for the Best Graduates of the Faculty of Information and Communication Technology, Wrocław University of Science and Technology (6th place)"
     url: ''
 
 
