@@ -48,7 +48,7 @@ social:
     link: 'https://www.linkedin.com/in/bart%C5%82omiej-marek-1465181b9/'
   - icon: github
     icon_pack: fab
-    link: 'https://github.com/bartlomiej-marek'
+    link: 'https://github.com/bartlomiejmarek'
 
 # Uncomment below for Github link
 
