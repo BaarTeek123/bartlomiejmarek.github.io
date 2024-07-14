@@ -2,7 +2,7 @@
 title: Multilingual aspects of audio DeepFakes
 summary: 'Comparison of state-of-the-art deep learning models for audio deepfakes detection in the context of audio DeepFakes across 8 languages (English, German, Polish, Ukrainian, Russian, Spanish, French, Italian).'
 tags:
-  - DeepFakes
+  - DF
   - ML
   - Biometrics
 date: "2024-06-01"
