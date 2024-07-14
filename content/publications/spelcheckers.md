@@ -20,7 +20,7 @@ publication_types: ["paper-conference"] #conference
 
 
 # Publication name and optional abbreviated publication name.
-publication: "*Big Data*"
+publication: "In Proceedings of the 21st International Conference on Security and Cryptography - SECRYPT 2024"
 publication_short: ""
 
 abstract: ''
