@@ -3,7 +3,7 @@ name = "Starter Blog"
 
 [light]
   # Primary
-  primary = "#bbdefb"
+  primary = "#76b5e8"
   link = "#bbdefb"
   link_hover = "#AFC6D9"
   background = "rgb(26, 32, 44)"
