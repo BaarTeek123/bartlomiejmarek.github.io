@@ -39,7 +39,7 @@ item:
     url: ''
   - certificate_url:
     date_end: ''
-    date_start: '2022-11-27'
+    date_start: '2022-11-10'
     description: ''
     organization: 'PCC- CERT Polskie Centrum Certyfikacji'
     organization_url: 'https://www.pcc-cert.pl/'
